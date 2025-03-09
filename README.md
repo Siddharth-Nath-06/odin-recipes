@@ -1,0 +1,1 @@
+This project is to verify my knowledge of basic HTML, acquired from the odin web development course.
